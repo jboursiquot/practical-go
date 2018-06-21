@@ -1,0 +1,14 @@
+mode: set
+github.com/jboursiquot/practical-go/exercises/http/e4/handler.go:19.61,20.32 1 1
+github.com/jboursiquot/practical-go/exercises/http/e4/handler.go:25.2,25.31 1 0
+github.com/jboursiquot/practical-go/exercises/http/e4/handler.go:20.32,21.17 1 1
+github.com/jboursiquot/practical-go/exercises/http/e4/handler.go:21.17,23.4 1 1
+github.com/jboursiquot/practical-go/exercises/http/e4/handler.go:28.44,38.2 1 1
+github.com/jboursiquot/practical-go/exercises/http/e4/handler.go:40.78,41.18 1 1
+github.com/jboursiquot/practical-go/exercises/http/e4/handler.go:42.22,44.17 2 1
+github.com/jboursiquot/practical-go/exercises/http/e4/handler.go:49.3,50.31 2 1
+github.com/jboursiquot/practical-go/exercises/http/e4/handler.go:55.3,56.9 2 1
+github.com/jboursiquot/practical-go/exercises/http/e4/handler.go:57.10,59.9 2 1
+github.com/jboursiquot/practical-go/exercises/http/e4/handler.go:44.17,47.4 2 1
+github.com/jboursiquot/practical-go/exercises/http/e4/handler.go:50.31,53.4 2 0
+github.com/jboursiquot/practical-go/exercises/http/e4/main.go:8.13,15.2 4 0
